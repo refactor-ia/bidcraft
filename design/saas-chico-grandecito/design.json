@@ -1,0 +1,20 @@
+{
+  "title": "De SaaS chico a SaaS grandecito",
+  "brief": "Stream explicativo de cinco horas, sin participación de Discord. Pizarra: la presentación que se transmite. Guion: notas privadas para conducir.",
+  "artboards": [
+    {
+      "file": "01-pizarra.html",
+      "title": "Pizarra",
+      "tradeoff": "Lo que se transmite: 37 diapositivas, escenario 16:9 fijo, vista de presentador privada.",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "file": "guion.html",
+      "title": "Guion de conducción",
+      "tradeoff": "Documento privado: cronograma y notas por diapositiva. No se transmite.",
+      "width": 1440,
+      "height": 900
+    }
+  ]
+}
