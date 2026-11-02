@@ -1,0 +1,20 @@
+node_modules/
+.svelte-kit/
+build/
+vite.config.ts.timestamp-*
+
+# Local Pi runtime state
+.atl/
+
+# Local data, tooling, and private configuration
+.playwright-mcp/
+.codegraph/
+nan-data/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
