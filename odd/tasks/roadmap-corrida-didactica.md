@@ -89,3 +89,7 @@ success criteria, executed against the real app running on the remote host.
 - Rate limiter verified: 35 rapid parse requests → 30x422 + 5x429
   UPSTREAM_RATE_LIMITED (limit 30/min per IP).
 - Tests: 353 passed (18 files), svelte-check 0 errors, locally and on host.
+
+## Project context
+
+For the full educational journey, review approach and long-term multiuser goal, start with [BidCraft project context](../../docs/corrida-didactica/README.md). That overview does not approve additional milestones or change the gates above.
